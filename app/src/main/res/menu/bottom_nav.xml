@@ -4,15 +4,15 @@
         android:icon="@drawable/home_24px"
         android:title=""/>
     <item
-        android:id="@+id/calendar"
+        android:id="@+id/event"
         android:icon="@drawable/event_24px"
         android:title=""/>
     <item
-        android:id="@+id/dots"
+        android:id="@+id/collaboration"
         android:icon="@drawable/account_tree_24px"
         android:title=""/>
     <item
-        android:id="@+id/screen"
+        android:id="@+id/forum"
         android:icon="@drawable/forum_24px"
         android:title=""/>
 </menu>
