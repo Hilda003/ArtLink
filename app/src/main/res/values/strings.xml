@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArtLink</string>
+    <string name="login">Login</string>
+    <string name="notification">Notification</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_picture">Profile</string>
+    <string name="portfolio_item">Porto</string>
+</resources>
